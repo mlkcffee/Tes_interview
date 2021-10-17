@@ -1,0 +1,2 @@
+user name	: sesuai nama user di data base
+password	: 12345 
